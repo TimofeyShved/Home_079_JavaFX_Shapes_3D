@@ -14,6 +14,6 @@
     <children>
         <Label text="3D фигуры:" />
         <Button contentDisplay="CENTER" mnemonicParsing="false" text="Сфера" onMouseClicked="#openSphereCullFace"/>
-        <Button contentDisplay="CENTER" mnemonicParsing="false" text="Куб" onMouseClicked="#openBox"/>
+        <Button contentDisplay="CENTER" mnemonicParsing="false" text="Тени" onMouseClicked="#openBox"/>
     </children>
 </VBox>
